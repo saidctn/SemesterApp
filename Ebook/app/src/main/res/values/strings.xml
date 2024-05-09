@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">BUCH</string>
+    <string name="studentILU_title">Main-Ressources</string>
+    <string name="buttonPsso">PSSO</string>
+    <string name="btnIlu">Ilias Homepage</string>
+    <string name="webMail">Webmail TH Köln</string>
+    <string name="CampusIT">Campus IT</string>
 </resources>
