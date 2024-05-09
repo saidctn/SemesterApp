@@ -4,15 +4,18 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:id="@+id/studentActivity"
+    >
 
     <TextView
         android:id="@+id/textViewHeaderID"
         android:layout_width="match_parent"
-        android:layout_height="150dp"
-        android:text="@string/studentILU_title"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
+        android:layout_height="50dp"
+        android:text="@string/linkSites"
+        android:textAlignment="center"
+        android:layout_marginTop="20dp"
+        android:autoLink="web"
         />
     <CheckBox
         android:id="@+id/bntPsso"

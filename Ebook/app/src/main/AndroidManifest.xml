@@ -13,7 +13,7 @@
         android:theme="@style/Theme.BUCH"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name=".LinksToSite"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
