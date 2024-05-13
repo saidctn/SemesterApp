@@ -1,0 +1,19 @@
+<resources>
+
+    <!--
+        Mit App Bar:
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <item name="android:actionBarSize">60dp</item>
+        <!--
+            Ohne App Bar:
+
+        <style name="AppBaseTheme" parent="android:Theme.Holo.NoActionBar">
+       -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+    </style>
+
+</resources>
