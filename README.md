@@ -30,4 +30,4 @@ Auch wenn die App noch nicht vollständig ist, sind bereits nützliche Funktione
 - Aktualisierte Links für einen reibungslosen Zugang
 
 Erstellt von : 
-Said Cetin
+Said Cetin, Christopher Okoh
