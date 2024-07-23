@@ -29,5 +29,12 @@ Auch wenn die App noch nicht vollständig ist, sind bereits nützliche Funktione
 - Schnelle Navigation zu relevanten Ressourcen und Informationen
 - Aktualisierte Links für einen reibungslosen Zugang
 
+Diese App soll Ihnen den Studienalltag erleichtern und Ihnen helfen, sich besser zu organisieren und zu informieren. 
+Wir arbeiten daran, die App zu verbessern und weitere Funktionen hinzuzufügen. 
+
+Zögern Sie nicht, uns Ihr Feedback und Ihre Verbesserungsvorschläge mitzuteilen.
+
+Wir wünschen Ihnen viel Erfolg und Freude im Studium!
+
 Erstellt von : 
 Said Cetin, Christopher Okoh
